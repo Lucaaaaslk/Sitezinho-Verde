@@ -1,0 +1,53 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+body {
+  
+  padding: 10px;
+  color:rgb(228, 228, 228)
+  
+
+  
+}
+body{
+  background: radial-gradient(circle, rgb(6, 192, 6), black);}
+
+Head {
+  color:violet
+  
+}
+main, h1  {
+  width: 100vw;
+  color:rgb(255, 255, 255)
+}
+
+main{
+  
+  background-color: rgb(13, 11, 11)
+  
+}
+h1{
+  background-color:rgb(13, 11, 11)
+}
+
+img{
+  padding-top: 0px;
+  width: 500px; 
+  padding-left: 0px;
+}
+h3{
+   
+  background-color: rgb(13, 11, 11); 
+  
+}
+
+h4{
+   width: 100vw;
+   background-color: rgb(13, 11, 11);
+}
+
+*{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
